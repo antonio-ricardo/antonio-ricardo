@@ -1,8 +1,8 @@
 ### Olá! Eu sou antonio ricardo 😄
 
 
-- 🔭 Trabalho com back-end
-- 🌱 Estudando react, next.js e por ai vai
+- 🔭 Trabalho com desenvolvimento full-stack
+- 🌱 Estudando next.js, elixir e mais uma coisinhas
 
 <div align="center">
   <a href="https://github.com/antonio-ricardo">
